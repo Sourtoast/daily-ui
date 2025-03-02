@@ -1,0 +1,10 @@
+{
+  "name": "daily-057",
+  "description": "Video player",
+  "scripts": {
+    "dev": "serve ."
+  },
+  "dependencies": {
+    "serve": "14.2.4"
+  }
+}

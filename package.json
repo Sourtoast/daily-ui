@@ -1,0 +1,9 @@
+{
+  "name": "daily-ui",
+  "workspaces": [
+    "daily-057"
+  ],
+  "dependencies": {
+    "prettier": "3.5.2"
+  }
+}
